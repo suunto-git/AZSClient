@@ -1,0 +1,4 @@
+module AZSClient {
+    umbrella "."
+    export *
+}
